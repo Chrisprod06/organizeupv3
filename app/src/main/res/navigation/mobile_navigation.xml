@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.organizeupv3.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_groups"
+        android:name="com.example.organizeupv3.GroupsFragment"
+        android:label="@string/menu_groups"
+        tools:layout="@layout/fragment_groups" />
+
+    <fragment
+        android:id="@+id/nav_plans"
+        android:name="com.example.organizeupv3.PlansFragment"
+        android:label="@string/menu_plans"
+        tools:layout="@layout/fragment_plans" />
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.organizeupv3.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/nav_rate"
+        android:name="com.example.organizeupv3.RateFragment"
+        android:label="Rate"
+        tools:layout="@layout/fragment_rate" />
+    <fragment
+        android:id="@+id/nav_places"
+        android:name="com.example.organizeupv3.PlacesFragment"
+        android:label="Places"
+        tools:layout="@layout/fragment_places" />
+</navigation>

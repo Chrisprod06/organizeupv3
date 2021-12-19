@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinnerRoleItems">
+        <item>Owner</item>
+        <item>Friend</item>
+    </string-array>
+    <string-array name="spinnerGroupsItems">
+        <item>Choose a group</item>
+    </string-array>
+    <string-array name="spinnerPlacesItems">
+        <item>Choose a place</item>
+    </string-array>
+</resources>

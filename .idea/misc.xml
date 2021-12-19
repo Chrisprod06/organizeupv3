@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_about_tabbed.xml" value="0.12760416666666666" />
+        <entry key="app/src/main/res/layout/activity_accounts.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_add_place.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_create_group.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_create_place.xml" value="0.3319746376811594" />
+        <entry key="app/src/main/res/layout/activity_create_plan.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3319746376811594" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/activity_navigation.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3319746376811594" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.3242753623188406" />
+        <entry key="app/src/main/res/layout/activity_website.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/app_bar_navigation.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/content_about.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/content_navigation.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/fragment_about_tabbed.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_activities.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_details.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_maps.xml" value="0.340625" />
+        <entry key="app/src/main/res/layout/fragment_places.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_plans.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_plans2.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/fragment_rate.xml" value="0.30117753623188404" />
+        <entry key="app/src/main/res/layout/item_plan_recycler.xml" value="0.328804347826087" />
+        <entry key="app/src/main/res/layout/nav_header_navigation.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/menu/menu_create_plan.xml" value="0.1935185185185185" />
+        <entry key="app/src/main/res/menu/menu_register.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/menu/navigation.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/menu/navigation_about.xml" value="0.35572916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
